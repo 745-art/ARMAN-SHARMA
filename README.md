@@ -1,2 +1,3 @@
 # ARMAN-SHARMA
-THIS IS MY FIRST GIT REPOSITORY
+This is my first Git Repository.
+Author - Arman Sharma
